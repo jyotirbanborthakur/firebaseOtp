@@ -1,0 +1,21 @@
+#logoutButton
+{
+    position: relative;
+    left: 45rem;
+    bottom:15rem;
+    width:10rem
+}
+#leaderBoardButton
+{
+    position: relative;
+    left: 45rem;
+    top:10rem;
+    width:10rem
+}
+.increseFeature
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:1rem
+}
